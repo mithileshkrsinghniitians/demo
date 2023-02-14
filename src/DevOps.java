@@ -1,5 +1,5 @@
 public class DevOps {
     /*
-        This is dummy class
+        This is dummy class for git branching demo.
     */
 }
